@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Car App</string>
+    <string name="buttonStart">Start</string>
+    <string name="textVehicle">Vehicle</string>
+</resources>
