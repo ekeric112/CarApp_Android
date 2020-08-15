@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    /** Called when the user taps the Send button */
+    /** Called when the user taps the Start button */
     public void startApp(View view) {
         Intent intent = new Intent(this, TypeSelectActivity.class);
 //        EditText editText = (EditText) findViewById(R.id.editText);

@@ -4,4 +4,6 @@
     <string name="textVehicle">Vehicle</string>
     <string name="textDoor">Would you like a 2 Door, 4 Door, or SUV?</string>
     <string name="button2Door">2-Door</string>
+    <string name="button4Door">4-Door</string>
+    <string name="buttonSUV">SUV</string>
 </resources>
